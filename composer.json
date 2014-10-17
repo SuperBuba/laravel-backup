@@ -7,10 +7,12 @@
             "email": "schickling.j@gmail.com"
         }
     ],
-    {
+    "repositories": [
+	{
 		"type"  : "git",
 		"url"   : "https://github.com/SuperBuba/aws-sdk-php-laravel.git"
-	},
+	}
+    ],
     "require": {
         "php": ">=5.3.0",
         "symfony/finder": "2.*",
